@@ -1,0 +1,1 @@
+scrapy runspider /home/pi/Desktop/scrapy/heihei/heihei/heihei/spiders/heihei_spider.py -o heihei.json
